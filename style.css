@@ -7,7 +7,7 @@
     font-weight: normal;
 }
 
-:root{
+:root{ /* maneira de declarar variaveis em CSS*/
     --cor0:#c5ebd6;
     --cor1:#83e1ad;
     --cor2:#3ddc84;
@@ -55,7 +55,7 @@ header > p{
     font-size: 1.2em;
     max-width: 600px;
     margin: auto;
-    padding-bottom: 20px;
+    margin-bottom: 20px;
     padding: 0px 10px;
     text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.315);
 }
